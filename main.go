@@ -1,9 +1,10 @@
 package main
 
+// comemnt pd
 import "fmt"
 
 func main() {
 	fmt.Println("Hello World")
 }
 
-// COMMENT
+// comemnt pd
